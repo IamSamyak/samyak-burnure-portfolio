@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/samyak-burnure-portfolio/static/css/main.748423f6.css",
-    "main.js": "/samyak-burnure-portfolio/static/js/main.bec35da4.js",
+    "main.js": "/samyak-burnure-portfolio/static/js/main.873a28f8.js",
     "static/js/453.28a68af7.chunk.js": "/samyak-burnure-portfolio/static/js/453.28a68af7.chunk.js",
     "index.html": "/samyak-burnure-portfolio/index.html",
     "main.748423f6.css.map": "/samyak-burnure-portfolio/static/css/main.748423f6.css.map",
-    "main.bec35da4.js.map": "/samyak-burnure-portfolio/static/js/main.bec35da4.js.map",
+    "main.873a28f8.js.map": "/samyak-burnure-portfolio/static/js/main.873a28f8.js.map",
     "453.28a68af7.chunk.js.map": "/samyak-burnure-portfolio/static/js/453.28a68af7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.748423f6.css",
-    "static/js/main.bec35da4.js"
+    "static/js/main.873a28f8.js"
   ]
 }

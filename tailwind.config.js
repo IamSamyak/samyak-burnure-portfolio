@@ -26,6 +26,15 @@ export default {
         "3xl": "1.5rem",
         "full": "9999px"
       },
+      keyframes: {
+        scroll: {
+          '0%': { transform: 'translateX(0)' },
+          '100%': { transform: 'translateX(-50%)' }, // moves half-width for looping effect
+        },
+      },
+      animation: {
+        scroll: 'scroll 30s linear infinite', // adjust 30s for speed
+      },
     },
   },
   plugins: [],

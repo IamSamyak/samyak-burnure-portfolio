@@ -17,9 +17,9 @@ const HomePage = () => {
         <Hero />
         <Journey />
         <Projects />
-        <CodingProfiles />
+        {/* <CodingProfiles /> */}
         <Skills />
-        <Creative />
+        {/* <Creative /> */}
         <Contact />
       </main>
       <Footer />
